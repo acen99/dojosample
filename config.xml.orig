@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<<<<<<< Updated upstream
+<widget id="com.test.dojosample" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Dojo Sample</name>
+=======
+<widget id="com.test.dojotest" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Dojo sample</name>
+>>>>>>> Stashed changes
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+    </description>
+    <author email="dev@callback.apache.org" href="http://cordova.io">
+        Apache Cordova Team
+    </author>
+    <access origin="*" />
+    <preference name="fullscreen" value="true" />
+    <preference name="webviewbounce" value="true" />
+     <preference name="phonegap-version"  value="3.0.0" />
+</widget>
